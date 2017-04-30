@@ -1,0 +1,91 @@
+html{
+	overflow-x: hidden;
+}
+header{
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0,0,0,.6);
+}
+
+.main-screen{
+	text-align: center;
+	margin-top: 70px;
+	color:#fff;
+}
+.main-screen span{
+	font-family: 'Ubuntu-Bold',sans-serif;
+	font-size: 14px;
+}
+.main-screen h1{
+	font-family: 'Ubuntu-Regular', sans-serif;
+	font-size: 56px;/
+}
+.main-screen p{
+	font-family: 'Ubuntu-Light', sans-serif;
+	font-size: 24px;
+	margin-top: 40px;
+}
+.main-screen picture{
+	margin-top: 100px;
+	display: block;
+}
+.main-screen form{
+	margin-top: 100px;
+}
+.main-screen input{
+	font-family: 'Ubuntu-Regular', sans-serif;
+	font-size: 18px;
+	text-align: left;
+	width: 220px;
+	height: 50px;
+	margin-right: -3px;
+	padding: 0 0 0 15px;
+	color:#929292;
+}
+.form-btn{
+	font-family: 'Ubuntu-Light', sans-serif;
+	font-size: 18px;
+	vertical-align: top;
+	border:none;
+	height: 50px;
+	width: 160px;
+	background-color: #1abc9c;
+}
+.confidential p{
+	font-size: 12px;
+}
+.confidential a{
+	color:orange;
+}
+
+.menu{
+	width: 100vw;
+	height: 50px;
+	background-color: #fff;
+	display: block;
+}
+.menu ul{
+	display: inline-block;
+	margin-bottom: 0;
+	vertical-align: middle;
+}
+.menu li{
+	display: inline-block;
+	list-style-type: none;
+	height: 50px;
+	line-height: 50px;
+	margin-left: 10px;
+}
+.menu a{
+	font-family: 'Ubuntu-Regular', sans-serif;
+	font-size: 15px;
+	color:#a69999;
+}
+.social{
+	text-align: right;
+}
+.social li{
+	margin-left: 10px;
+	height: 50px;
+	line-height: 50px;
+}
