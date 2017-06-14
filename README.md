@@ -1,3 +1,3 @@
 # video-background
 Homework 20
-link: https://lipaivalentine.github.io/video-background/
+link: https://valentinelipai.github.io/video-background/
